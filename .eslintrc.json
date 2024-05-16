@@ -42,6 +42,9 @@
             "prefix": "app",
             "style": "kebab-case"
           }
+        ],
+        "import/prefer-default-export": [
+          "off"
         ]
       }
     },
